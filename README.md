@@ -1,4 +1,7 @@
 # coinmarket-trending-script
+
+<a href="https://coinmarketcap.com"><img src="https://play-lh.googleusercontent.com/DhUU3dwLN6m16DzILuK_alrFUOzzzMaOB2TzXs9PAZ7cLEv388vdRB1QV4JKnwRjlDg" width="180" alt="Coin Market Cap"/></a>
+
 This is a script to retrieve all stocks identity detail on coinmarket
 
 This script will retrieve stocks identity like below (9000+):
